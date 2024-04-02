@@ -1,0 +1,9 @@
+@font-face {
+    font-family: texturina1;
+    src: url(/public/assets/fonts/Texturina-Italic-VariableFont_opsz\,wght.ttf);
+}
+
+@font-face {
+    font-family: texturina2;
+    src: url(/public/assets/fonts/Texturina-VariableFont_opsz\,wght.ttf);
+}
